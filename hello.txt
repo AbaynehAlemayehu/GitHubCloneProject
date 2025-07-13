@@ -15,4 +15,4 @@ git remote add origin https://github.com/YOUR_USERNAME/LocalRepoProject.git
 
 # 6. Push to GitHub
 git push -u origin main
-"Hello, Git and GitHub!"
+Hello, Git and GitHub!
